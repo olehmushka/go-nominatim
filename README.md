@@ -1,5 +1,11 @@
 # go-nominatim
 
+[![CI](https://github.com/olehmushka/go-nominatim/actions/workflows/ci.yml/badge.svg)](https://github.com/olehmushka/go-nominatim/actions/workflows/ci.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/olehmushka/go-nominatim.svg)](https://pkg.go.dev/github.com/olehmushka/go-nominatim)
+[![Go Report Card](https://goreportcard.com/badge/github.com/olehmushka/go-nominatim)](https://goreportcard.com/report/github.com/olehmushka/go-nominatim)
+[![License](https://img.shields.io/github/license/olehmushka/go-nominatim)](LICENSE)
+[![Latest Release](https://img.shields.io/github/v/tag/olehmushka/go-nominatim)](https://github.com/olehmushka/go-nominatim/releases)
+
 A small, rate-limited Go client for the public [OpenStreetMap Nominatim](https://nominatim.openstreetmap.org)
 search API — free, keyless geocoding.
 
